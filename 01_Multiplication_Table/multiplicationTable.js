@@ -90,6 +90,26 @@
 // console.log(arr)
 
 
-let arr = [2,3,4,5,6]
-arr.forEach(n => console.log(n-1))
-console.log(arr)
+// let arr = [2,3,4,5,6]
+// arr.forEach(n => console.log(n-1))
+// console.log(arr)
+
+
+// const arr = [1,2,3,4,5];
+// const result  = arr.reduce((acc, num) => {
+//     if(num%2===0){
+//         return acc + num;
+//     }
+//     return acc;
+// },0)
+// console.log(result)
+
+const obj = {
+    prop1:{
+        prop2:{
+            prop3:'value'
+        }
+    }
+}
+
+console.log(obj.prop1.prop2.prop3.length)
