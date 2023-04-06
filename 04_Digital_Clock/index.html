@@ -50,6 +50,7 @@ function clock() {
     var presentDay=week[dayName]+", "+months[month]+" "+date+", "+year;
     const dayIntro=document.getElementById("dayName");
 
+    // Set the Day Name into a div which is showing webpage
     dayIntro.innerHTML = presentDay;
 
 
@@ -65,6 +66,7 @@ function clock() {
     m = (m<10) ? "0" + m : m
     s = (s<10) ? "0" + s : s
     
+    // Set the Time into a div which is showing webpage
     hour.innerHTML = h
     min.innerHTML = m
     sec.innerHTML = s

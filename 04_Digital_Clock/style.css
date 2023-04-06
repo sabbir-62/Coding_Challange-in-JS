@@ -53,6 +53,7 @@ body{
     margin: 0 5px;
     -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
 }
+
 #time div span:first-child{
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
