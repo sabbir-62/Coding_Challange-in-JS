@@ -1,4 +1,3 @@
 <--live link-->
 
-1. Netlify: https://resplendent-daifuku-2872fe.netlify.app
-2. Github: https://sabbir-62.github.io/Coding_Assignment/
+https://resplendent-daifuku-2872fe.netlify.app
